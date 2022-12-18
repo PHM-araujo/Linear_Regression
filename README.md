@@ -23,5 +23,4 @@
 ## Fontes:
 - Stack Overflow, c2022. Disponível em: <stackoverflow.com>. Acesso em: 18 de dezembro de 2022.
 - MOREIRA, Benjamin Grando. Redes Neurais Artificiais. Joinville: Ufsc, 2022. 32 slides, color.
-- 
 

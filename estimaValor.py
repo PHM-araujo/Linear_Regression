@@ -1,6 +1,7 @@
 from keras.models import load_model
 import numpy as np 
 import pandas as pd
+import matplotlib.pyplot as plt
 
 # Valida se o valor passado como entrada é um float
 def validaFloat(strvalor):
